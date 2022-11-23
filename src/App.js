@@ -30,7 +30,6 @@ function App() {
     ]
   return (
     <div className="App">
-      <h1>hello world</h1>
       <ExpenseItem items={expenses[0]}/>
       <ExpenseItem items={expenses[1]}/>
       <ExpenseItem items={expenses[2]}/>
